@@ -5,11 +5,15 @@ import Home from './pages/Home'
 import Sobre from './pages/Sobre'
 import Produtos from './pages/Produtos'
 import Contato from './pages/Contato'
+
 const App = () => {
   return (
-    <>
+    <Router>
+      <div>
+
+      </div>
       
-    </>
+    </Router>
   )
 }
 
